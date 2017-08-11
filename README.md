@@ -3,9 +3,9 @@
 Requisitos Funcionais e não Funcionais do GitHub
 
 Funcionais: <br>
-Criar repositório;
-Editar codigo;
+Criar repositório;<br>
+Editar codigo;<br>
 
-Não Funcionais: 
-Background White;
-Tamanho dos Botões
+Não Funcionais:<br> 
+Background White;<br>
+Tamanho dos Botões<br>
