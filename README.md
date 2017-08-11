@@ -2,7 +2,7 @@
 
 Requisitos Funcionais e não Funcionais do GitHub
 
-Funcionais:
+Funcionais: <br>
 Criar repositório;
 Editar codigo;
 
